@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+ <head>
+	
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="site fogosinho" content="roupas" />
+    <meta name="description" content="Template Html5 e Css3 - Tema Roupas"/>
+    <meta name="keywords" content="loja de roupa, clothing store, luxury clothing store, store."/>
+    <meta name="author" content="Fogosinho's clothing" />
+    <meta name="URL" content="https://www.www.fogoclothing.com"/>
+    <meta http-equiv="content-language" content="pt-br" />
+    <meta name="robots" content="index, follow"/>
+    
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+    <![endif]-->       
+
+	<link rel="stylesheet" type="text/css" href="css/boot.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="css/fonts-icones.css">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/ico" />
+
+	<title>fogosinho clothing</title>
+
+ </head>
+
+<body>
+
+<header class="main_header container">
+        
+    <div class="content">
+    
+        <div class="main_header_logo">
+            <a href="index.html" title="The Barber Shop"><img src="img/logo.png" alt="Fogosinho clothing" title="fogosinho clothing"/></a>
+        </div>
+
+        <div class="icon icon-menu mobile_action"></div>
+
+        <ul class="main_header_nav">
+
+            <li class="main_header_nav_item"><a href="#inicio" title="Início" class="scrollSuave"> Início</a></li>
+            <li class="main_header_nav_item"><a href="#galeria" title="Galeria de Fotos" class="scrollSuave"> produtos</a></li>
+            <li class="main_header_nav_item"><a href="#contato" title="Contato" class="scrollSuave"> Contato</a></li>
+            <li class="main_header_nav_item"><a href="#contato" title="Contato" class="scrollSuave"> Promoção</a></li>
+        </ul>
+
+        <div class="clear"></div>
+    
+    </div>
+
+</header>
+
+    <main class="main_content container">
+
+        <section class="section-chamada container" id="inicio">
+            
+            <div class="content">
+                
+                <article class="topoPag">
+                  <div class="mascara">                              
+                          
+                      <div class="centraliza">
+                          <h1 class="branco"> Tênis 
+                          </h1>
+                          <p class="branco">Bonés</b></p>
+                      </div>                              
+                                                        
+                    <img src="uploads/capa/pexels-kamran-sabir-1144721.jpg  " alt="Capshop" title="cap Shop"/>
+
+                  </div>
+                </article>
+            
+            <div class="clear"></div>
+            </div>
+
+        </section><!--Fecha Section Chamada-->
+       
+        <section class="section-servicos container" id="servicos">
+            
+            <div class="content">
+                
+                <h1 class="title center azul">Modelos populares</h1>
+                
+                <article class="hover_servicos">
+
+                    <span class="appIcone icon icon-star-3"></span>
+                    <a href="#" class="appTitulo" title="Bone fogosinho"> bone fogosinho</a>
+                    
+                    <div class="hoverMascara">
+                     <div class="hover_servicos_hover"></div>
+                     <img class="appFoto" src="uploads/servicos/bonelacoste.jpg">
+                    </div>
+                    
+                    <div class="descricao">
+                      <h4>fogs</h4>
+                      <p></p>
+                    </div>
+
+                </article><!--1-->
+
+                <article class="hover_servicos">
+
+                    <span class="appIcone icon icon-star-3"></span>
+                    <a href="#" class="appTitulo" title="moletom fogs">moletom fogs</a>
+                    
+                    <div class="hoverMascara">
+                     <div class="hover_servicos_hover"></div>
+                     <img class="appFoto" src="uploads/servicos/bonenike.jpg">
+                    </div>
+                    
+                    <div class="descricao">
+                      <h4>Fogs 2.0</h4>
+                      <p></p>
+                    </div>
+
+                </article><!--2-->
+
+                <article class="hover_servicos">
+
+                    <span class="appIcone icon icon-star-3"></span>
+                    <a href="#" class="appTitulo" title="peita fogas">peita fogas</a>
+                    
+                    <div class="hoverMascara">
+                     <div class="hover_servicos_hover"></div>
+                     <img class="appFoto" src="uploads/servicos/boneadidas.webp">
+                    </div>
+                    
+                    <div class="descricao">
+                      <h4>fogas</h4>
+                      <p></p>
+                    </div>
+
+                </article><!--3-->
+            
+            <div class="clear"></div>
+            </div>
+
+        </section><!--Fecha Section Sobre-->
+
+        <section class="section-galeria container" id="galeria">
+            
+            <div class="content">
+                
+                <h2 class="title center branco">Galeria de Fotos</h2>
+
+                <div class="galeria-barber">
+                   
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="https://images-americanas.b2w.io/produtos/1917458849/imagens/camiseta-camisa-fire-fogo-chamas-masculina-estampa-digital-3d/1917458911_1_large.jpg" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="https://images-americanas.b2w.io/produtos/1917458849/imagens/camiseta-camisa-fire-fogo-chamas-masculina-estampa-digital-3d/1917458911_1_large.jpg">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/av6953-100-bone-nike-aerobill-legacy91-unis-branco.jpg" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/av6953-100-bone-nike-aerobill-legacy91-unis-branco.jpg">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/adidas.jpg" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/adidas.jpg">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/rk4714-031-bone-lacoste-rk4711-casual-wear-solid-unis-preto.jpg" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/rk4714-031-bone-lacoste-rk4711-casual-wear-solid-unis-preto.jpg">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/ny.webp" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/ny.webp">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/puma.jpg" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/puma.jpg">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/tomi.webp" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/tomi.webp">
+         
+                    </article>
+
+                    <article class="foto">
+                       
+                       <div class="mascara"></div>
+                       <a href="uploads/galeria/oakley.webp" title="veja" class="image-link"> <i class="icon icon-search"></i> </a>  
+                       <img src="uploads/galeria/oakley.webp">
+         
+                    </article>
+
+
+                </div><!--Galeria Barber-->
+
+            
+            <div class="clear"></div>
+            </div>
+
+        </section><!--Fecha Section Galeria-->
+
+        <section class="section-contato container" id="contato">
+            
+            <div class="content">
+
+                <h2 class="title center azul">Fale Conosco</h2>
+                                
+                <div class="coluna">
+
+                    <form method="post" action="#" class="formulario">
+                        
+                        <label>  
+                            
+                            <input type="text" name="nome" class="campo" placeholder="Nome" required="">
+                        
+                        </label>
+
+                        <label>  
+                            
+                            <input type="text" name="email" class="campo" placeholder="E-mail" required="">
+                        
+                        </label>
+
+                        <label>  
+                            
+                            <textarea name="mensagem" class="campo" placeholder="Deixe sua mensagem" rows="3" required=""></textarea>                    
+                        
+                        </label>
+
+                        <label>  
+                            
+                            <input type="hidden" name="acao" value="enviar">
+                            <button class="btn-enviar" title="Enviar">Enviar</button>
+
+                        </label>
+
+                    </form>
+
+                </div><!---Div Coluna-->
+                
+                <div class="">
+
+                    <div class="info">
+                      
+                        <p><i class="icon icon-mail-3"></i> fogoslindos@gmail.com</p>                    
+                        <p><i class="icon icon-phone"></i> 41 9878777541</p>
+                        <p><i class="icon icon-whatsapp"></i> 41 190</p>
+                        <p><i class="icon icon-pin-1"></i> Local: Paraná  Curitiba </p>     
+                        <p><i class="icon icon-calendar"></i> Atendimento: Segunda a sabado</p>
+                        <p><i class="icon icon-clock-2"></i> 8:00 ás 22:00</p>
+                    
+                    </div>
+
+                    <div class="info">
+
+                        <a href="#" class="btn"><span> <i class="icon icon-instagram"></i></span></a>
+                        <a href="#" class="btn"><span> <i class="icon icon-facebook"></i></span></a>
+                        <a href="#" class="btn"><span> <i class="icon icon-youtube"></i></span></a>
+                    
+                    </div>
+
+                </div><!---Div Coluna-->
+            
+            <div class="clear"></div>
+            </div>
+
+        </section><!--Fecha Section Contato-->
+
+
+    </main>
+
+<footer class="main_footer container">
+
+    <div class="main_footer_copy">
+        <div class="content">
+            <p class="t-copy-footer"> <b>Cap Shop</b> - 2023, Todos os Direitos Reservados.</p> 
+            <p class="by"> Por: <a href="https://www.loopnerd.com.br/" title="Loop Nerd">Loop Nerd</a></p>
+        </div>
+    </div>
+
+</footer>
+
+<script src="js/jquery.js"></script>
+<script src="js/scripts.js"></script>	
+<script src="js/jquery.magnific-popup.min.js"></script>
+
+</body>
+</html>
